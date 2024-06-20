@@ -1,6 +1,6 @@
 # 🏆 Award Winning Landing Page
 
-![Zentry Banner](screenshots/zentry%20(11).png)
+![Zentry Banner](screenshots/Zentry (1).png)
 
 ## 📚 Table of Contents
 - [👋 Introduction](#-introduction)
@@ -55,11 +55,11 @@ Award Winning Landing Page is a visually stunning and interactive landing page p
 
 <table>
   <tr>
-    <td><img src="/screenshots/zentry (1).png" alt="Screen 1" width="200"/></td>
-    <td><img src="/screenshots/zentry (2).png" alt="Screen 2" width="200"/></td>
-    <td><img src="/screenshots/zentry (3).png" alt="Screen 3" width="200"/></td>
-    <td><img src="/screenshots/zentry (4).png" alt="Screen 4" width="200"/></td>
-    <td><img src="/screenshots/zentry (5).png" alt="Screen 5" width="200"/></td>
+    
+    <td><img src="/screenshots/Zentry (2).png" alt="Screen 2" width="200"/></td>
+    <td><img src="/screenshots/Zentry (3).png" alt="Screen 3" width="200"/></td>
+    <td><img src="/screenshots/Zentry (4).png" alt="Screen 4" width="200"/></td>
+    <td><img src="/screenshots/Zentry (5).png" alt="Screen 5" width="200"/></td>
   </tr>
   <tr>
     <td><img src="/screenshots/zentry (6).png" alt="Screen 6" width="200"/></td>
