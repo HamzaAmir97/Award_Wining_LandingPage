@@ -57,7 +57,6 @@ Award Winning Landing Page is a visually stunning and interactive landing page p
   <tr>
     <td><img src="/screenshots/Zentry (2).png" alt="Screen 2" width="200"/></td>
     <td><img src="/screenshots/Zentry (3).png" alt="Screen 3" width="200"/></td>
-    <td><img src="/screenshots/Zentry (4).png" alt="Screen 4" width="200"/></td>
     <td><img src="/screenshots/Zentry (5).png" alt="Screen 5" width="200"/></td>
   </tr>
   <tr>
