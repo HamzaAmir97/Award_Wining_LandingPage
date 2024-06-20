@@ -1,6 +1,9 @@
 # 🏆 Award Winning Landing Page
 
-![Zentry Banner](screenshots/Zentry (1).png)
+<div align="center">
+<img src="/screenshots/Zentry (1).png" alt="Main Fullscreen" width="100%"/>
+</div>
+
 
 ## 📚 Table of Contents
 - [👋 Introduction](#-introduction)
@@ -47,26 +50,22 @@ Award Winning Landing Page is a visually stunning and interactive landing page p
 
 ## 📖 Screenshots
 
-<div align="center">
-<img src="/screenshots/zentry (11).png" alt="Main Fullscreen" width="100%"/>
-</div>
 
 <div align="center">
 
 <table>
   <tr>
-    
     <td><img src="/screenshots/Zentry (2).png" alt="Screen 2" width="200"/></td>
     <td><img src="/screenshots/Zentry (3).png" alt="Screen 3" width="200"/></td>
     <td><img src="/screenshots/Zentry (4).png" alt="Screen 4" width="200"/></td>
     <td><img src="/screenshots/Zentry (5).png" alt="Screen 5" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="/screenshots/zentry (6).png" alt="Screen 6" width="200"/></td>
-    <td><img src="/screenshots/zentry (7).png" alt="Screen 7" width="200"/></td>
-    <td><img src="/screenshots/zentry (8).png" alt="Screen 8" width="200"/></td>
-    <td><img src="/screenshots/zentry (9).png" alt="Screen 9" width="200"/></td>
-    <td><img src="/screenshots/zentry (10).png" alt="Screen 10" width="200"/></td>
+    <td><img src="/screenshots/Zentry (6).png" alt="Screen 6" width="200"/></td>
+    <td><img src="/screenshots/Zentry (7).png" alt="Screen 7" width="200"/></td>
+    <td><img src="/screenshots/Zentry (8).png" alt="Screen 8" width="200"/></td>
+    <td><img src="/screenshots/Zentry (9).png" alt="Screen 9" width="200"/></td>
+    <td><img src="/screenshots/Zentry (10).png" alt="Screen 10" width="200"/></td>
   </tr>
 </table>
 
