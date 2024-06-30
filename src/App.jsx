@@ -2,7 +2,7 @@ import React from 'react'
 import { Hero } from './componemts/Hero'
 function App() {
   return (
-    <main className='  relative min-h-screen w-screen overflow-x-hidden '>
+    <main className='relative min-h-screen w-screen overflow-x-hidden '>
       <Hero />
     </main>
   )
