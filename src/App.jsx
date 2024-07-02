@@ -1,4 +1,4 @@
-// import About from "./components/About";
+import About from "./componemts/About";
 import Hero from "./componemts/Hero";
 // import NavBar from "./components/Navbar";
 // import Features from "./components/Features";
@@ -11,11 +11,13 @@ function App() {
     <main className="relative min-h-screen w-screen overflow-x-hidden">
      {/*  */}
       <Hero />
-      {/* <About />
-      <Features />
-      <Story />
-      <Contact />
-      <Footer /> */}
+      <About />
+        {/* <Features />
+        <Story />
+        <Contact />
+        <Footer /> */}
+
+      <section className="flex-center h-screen w-screen bg-black"></section>
     </main>
   );
 }
