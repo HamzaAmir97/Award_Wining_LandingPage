@@ -3,7 +3,7 @@ import { useGSAP } from '@gsap/react'
 import gsap from 'gsap'
 import { ScrollTrigger } from 'gsap/all'
 gsap.registerPlugin(ScrollTrigger)
-
+import AnimatedTitle from './AnimatedTitle'
 const About = () => {
   useGSAP(() => {
          
@@ -18,7 +18,7 @@ const About = () => {
         }
     })
 
-    clipAnimation.to('-mask-clip-path', {
+    clipAnimation.to('.mask-clip-path', {
       width: '100vw',
         height: '100vh',
        borderRadius: '0px',
@@ -36,21 +36,11 @@ const About = () => {
 
     <h2 className='font-general  uppercase md:text-[10px]  '>
        Welcome to our Zentry</h2>
-    <div className=' text-center text-4xl uppercase leading-[0.8] md:text-[6rem]'>
-    
-       Disc<b>over</b> the world's<br/> l <b> a </b>rgest shared adventure 
-    </div>
 
-  <div className='about-subtext'>  
-  <p>   The Game of Games begins-your life , now an epic MMORGP  </p>
-   
-   <p> 
-  Zentry uintes every player from countless games and platforms into a single universe.
-   </p>
 
-  </div>
-    </div>
-      <div className='h-dvh w-screen ' id=" clip">
+       <AnimatedTitle />
+
+       <div className='h-dvh w-screen ' id="clip">
        < div className='mask-clip-path about-image'>
         <img src={"/img/about.webp"} alt="background"
          className='absolute size-full left-0 top-0 object-cover'
@@ -59,8 +49,21 @@ const About = () => {
        </div>
 
       </div>
+  <div className='about-subtext'>  
+  <p>   The Game of Games begins-your life , now an epic MMORGP  </p>
+   
+   <p> 
+  Zentry uintes every player from countless games and platforms into a single universe.
+   </p>
+
+  </div>
 
 
+    </div>
+    
+     
+
+   
 
 
 </div>
