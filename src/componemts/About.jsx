@@ -38,7 +38,7 @@ const About = () => {
           containerClass="mt-5 !text-black text-center"
         />
 
-        <div className="about-subtext">
+        <div className= "py-10 about-subtext">
           <p>The Game of Games begins—your life, now an epic MMORPG</p>
           <p className="text-gray-500">
             Zentry unites every player from countless games and platforms, both
@@ -52,7 +52,7 @@ const About = () => {
           <img
             src="img/about.webp"
             alt="Background"
-            className="absolute left-0 top-0 size-full object-cover"
+            className="absolute left-0 top-0 size-full  object-cover"
           />
         </div>
       </div>
