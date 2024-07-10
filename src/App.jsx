@@ -1,9 +1,10 @@
 import Hero from "./componemts/Hero";
 import About from "./componemts/About";
+import Navbar from "./componemts/Navbar";
 function App() {
   return (
     <main className="relative min-h-screen w-screen overflow-x-hidden">
-    
+      <Navbar />
       <Hero />
      <About />
       {/* <Features />
