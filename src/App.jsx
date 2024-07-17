@@ -2,6 +2,7 @@ import Hero from "./componemts/Hero";
 import About from "./componemts/About";
 import Navbar from "./componemts/Navbar";
 import Features from "./componemts/Featuers";
+import Story from "./componemts/Story";
 function App() {
   return (
     <main className="relative min-h-screen w-screen overflow-x-hidden">
@@ -9,8 +10,8 @@ function App() {
       <Hero />
      <About />
       <Features />
-      {/* <Story />
-      <Contact />
+      <Story />
+      {/* <Contact />
       <Footer /> */}
     </main>
   );
