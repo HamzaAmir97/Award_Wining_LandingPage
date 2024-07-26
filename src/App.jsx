@@ -3,6 +3,8 @@ import About from "./componemts/About";
 import Navbar from "./componemts/Navbar";
 import Features from "./componemts/Featuers";
 import Story from "./componemts/Story";
+import Contact from "./componemts/Contact";
+import Footer from "./componemts/Footer";
 function App() {
   return (
     <main className="relative min-h-screen w-screen overflow-x-hidden">
@@ -11,8 +13,8 @@ function App() {
      <About />
       <Features />
       <Story />
-      {/* <Contact />
-      <Footer /> */}
+        <Contact />
+        <Footer />
     </main>
   );
 }
